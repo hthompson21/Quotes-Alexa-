@@ -1,0 +1,105 @@
+{
+
+    "interactionModel": {
+
+        "languageModel": {
+
+            "invocationName": "fearless leaders",
+
+            "intents": [
+
+                {
+
+                    "name": "AMAZON.FallbackIntent",
+
+                    "samples": []
+
+                },
+
+                {
+
+                    "name": "AMAZON.CancelIntent",
+
+                    "samples": []
+
+                },
+
+                {
+
+                    "name": "AMAZON.HelpIntent",
+
+                    "samples": []
+
+                },
+
+                {
+
+                    "name": "AMAZON.StopIntent",
+
+                    "samples": [
+
+                        "no thanks",
+
+                        "nope ",
+
+                        "no",
+
+                        "Bye"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetShaneQuote",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "shane",
+
+                        "tell me a shane quote",
+
+                        "shane quote",
+
+                        "quote shane",
+
+                        "give me a shane quote"
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "GetDanielleQuote",
+
+                    "slots": [],
+
+                    "samples": [
+
+                        "danielle",
+
+                        "give me a danielle quote",
+
+                        "danielle quote",
+
+                        "quote danielle",
+
+                        "tell me a danielle quote"
+
+                    ]
+
+                }
+
+            ],
+
+            "types": []
+
+        }
+
+    }
+
+}
